@@ -5,10 +5,6 @@
   <a href="https://instagram.com/mahadraja_official"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 4px; height: 35px" alt="Instagram" /></a>
   <a href="https://x.com/mahadraja_offic"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" style="border-radius: 4px; height: 35px" /></a>
   <a href="mailto:mahadrajadev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 4px; height: 35px" alt="Email" /></a>
-  <a href="https://scophic.com" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none; background-color: #161b22; border-radius: 4px; padding: 0px 10px;">
-  <img src="https://res.cloudinary.com/t0bj48nm/image/upload/v1784222029/AppIcon_i5lsjz.svg" width="20" height="20" style="height: 35px" alt="Scophic Logo" style="vertical-align: middle;" />
-  <span style="color: #ffffff; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px;">Scophic</span>
-</a>
 </p>
 
 ---
